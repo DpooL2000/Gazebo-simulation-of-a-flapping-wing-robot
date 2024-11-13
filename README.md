@@ -2,7 +2,7 @@
 
 This repository contains the code for a flight simulation project designed to analyze and control a simulated bird using ROS and Gazebo. The project includes GUI components for real-time control and data visualization, as well as various controllers and plugins for simulating and analyzing bird flight dynamics.
 
-![model](image.png)
+
 
 ## File Structure
 
