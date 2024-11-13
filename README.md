@@ -6,13 +6,6 @@ This repository contains the code for a flight simulation project designed to an
 
 - **`CMakeLists.txt`**: Build configuration file for CMake.
 - **`package.xml`**: ROS package configuration file.
-- **`include/`**: Header files for the project(just included but not realy used as headers).
-  - `flapping_controller.h`: Header for the flapping controller.
-  - `flight_controller_gui.h`: Header for the GUI components.
-  - `lift_drag_plugin.h`: Header for the lift and drag plugin.
-  - `pitching_controller.h`: Header for the pitching controller.
-  - `rolling_controller.h`: Header for the rolling controller.
-  - `ui_test1.h`: Header for the UI elements.
 - **`launch/`**: Launch files for ROS.
   - `simple.launch`: Launch file to start the simulation.
 - **`models/`**: Gazebo models used in the simulation.
