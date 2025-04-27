@@ -11,7 +11,7 @@
 #include <std_msgs/Bool.h>
 #include <thread>
 #include <std_srvs/Empty.h>
-#include "ui_test1.h"
+#include "ui.h"
 #include <QPropertyAnimation>
 #include <vector>
 #include <QVector>
