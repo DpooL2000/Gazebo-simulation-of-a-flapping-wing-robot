@@ -4,6 +4,10 @@ This repository contains the code for a flight simulation project designed to an
 
 ![model](image.png)
 
+https://github.com/user-attachments/assets/a7cf18eb-7885-481c-bfef-dfd814341838
+
+https://github.com/user-attachments/assets/d4963d1c-1f1d-4fe9-a71b-3e7e6bd960d6
+
 ## File Structure
 
 - **`CMakeLists.txt`**: Build configuration file for CMake.
